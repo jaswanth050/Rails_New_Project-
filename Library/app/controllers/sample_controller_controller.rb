@@ -1,0 +1,2 @@
+class SampleControllerController < ApplicationController
+end
